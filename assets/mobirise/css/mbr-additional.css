@@ -4311,7 +4311,7 @@ body {
   text-align: left;
 }
 .cid-qIOiRsPPYm .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qIOiRsPPYm .card-wrapper {
   height: 100%;
@@ -4328,6 +4328,9 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qIOiRsPPYm .card-title {
+  color: #ffffff;
 }
 .cid-qIongyuGJF .navbar {
   padding: .5rem 0;

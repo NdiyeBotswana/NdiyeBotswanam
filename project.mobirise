@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 57,
     "versionPublish": "4.6.3",
@@ -3614,7 +3614,7 @@
               "text-align": "left"
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#ffffff"
             },
             ".card-wrapper": {
               "height": "100%",
@@ -3631,6 +3631,9 @@
                 "max-width": "20%",
                 "padding": "15px"
               }
+            },
+            ".card-title": {
+              "color": "#ffffff"
             }
           },
           "_name": "features17",
