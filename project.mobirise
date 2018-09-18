@@ -803,7 +803,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/first-article-6-2000x1119.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -837,8 +837,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" href=\"Jobs .html\" data-toolbar=\"-mbrBtnMove\">Go to careers</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/news-1348x695.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/newsa-1347x605.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
